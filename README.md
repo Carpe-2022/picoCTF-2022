@@ -52,19 +52,19 @@ picoCTF 2022 Write-Ups by Team Carpe (Final placement globally: 25th; Final scor
 
 |Question|Points|
 |--------|------|
-|[Enhance!](./Forensics/)|100|
-|[File types](./Forensics/)|100|
-|[Lookey here](./Forensics/)|100|
-|[Packets Primer](./Forensics/)|100|
-|[Redaction gone wrong](./Forensics/)|100|
-|[Sleuthkit Intro](./Forensics/)|100|
-|[Sleuthkit Apprentice](./Forensics/)|200|
-|[Eavesdrop](./Forensics/)|300|
-|[Operation Oni](./Forensics/)|300|
-|[St3g0](./Forensics/)|300|
-|[Operation Orchid](./Forensics/)|400|
-|[Side Channel](./Forensics/)|400|
-|[Torrent Analyze](./Forensics/)|400|
+|[Enhance!](./Forensics/Enhance%21)|100|
+|[File types](./Forensics/File%20types)|100|
+|[Lookey here](./Forensics/Lookey%20here)|100|
+|[Packets Primer](./Forensics/Packets%20Primer)|100|
+|[Redaction gone wrong](./Forensics/Redaction%20gone%20wrong)|100|
+|[Sleuthkit Intro](./Forensics/Sleuthkit%20Intro)|100|
+|[Sleuthkit Apprentice](./Forensics/Sleuthkit%20Apprentice)|200|
+|[Eavesdrop](./Forensics/Eavesdrop)|300|
+|[Operation Oni](./Forensics/Operation%20Oni)|300|
+|[St3g0](./Forensics/St3g0)|300|
+|[Operation Orchid](./Forensics/Operation%20Orchid)|400|
+|[Side Channel](./Forensics/Side%20Channel)|400|
+|[Torrent Analyze](./Forensics/Torrent%20Analyze)|400|
   
 </details>
 

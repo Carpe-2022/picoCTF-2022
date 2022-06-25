@@ -11,7 +11,7 @@ Hint: Remember that some file types can contain and nest other files
 
 The file provided is in PDF format, but it is unopenable. The hint lets us know that this challenge involved nested files. 
 
-`file Flag.pdf` shows that it is a shell archive. Executing this creates a file named `flag`
+`file Flag.pdf` shows that it is a shell archive. Executing this creates a file named `flag`.
 
 Next, we will inspect this file through binwalk: 
 

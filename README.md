@@ -35,13 +35,13 @@ picoCTF 2022 Write-Ups by Team Carpe (Final placement globally: 25th; Final scor
 |[Inspect HTML](./Web%20Exploitation/)|100|
 |[Local Authority](./Web%20Exploitation/)|100|
 |[Search source](./Web%20Exploitation/)|100|
-|[Forbidden Paths](./Web%20Exploitation/)|200|
+|[Forbidden Paths](./Web%20Exploitation/Forbidden%20Paths)|200|
 |[Power Cookie](./Web%20Exploitation/)|200|
-|[Roboto Sans](./Web%20Exploitation/)|200|
+|[Roboto Sans](./Web%20Exploitation/Roboto%20Sans)|200|
 |[Secrets](./Web%20Exploitation/)|200|
-|[SQL Direct](./Web%20Exploitation/)|200|
+|[SQL Direct](./Web%20Exploitation/SQL%20Direct)|200|
 |[SQLiLite](./Web%20Exploitation/)|300|
-|[Noted](./Web%20Exploitation/)|500|
+|[Noted](./Web%20Exploitation/Noted)|500|
 
 
 </details>

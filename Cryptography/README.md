@@ -8,7 +8,7 @@ Take each number mod 37 and map it to the following character set: 0-25 is the a
 Wrap your decrypted message in the picoCTF flag format (i.e. picoCTF{decrypted_message})
 
 ## Approach
-From the file, a list of integirs are found:
+From the file, a list of intigers are found:
 91 322 57 124 40 406 272 147 239 285 353 272 77 110 296 262 299 323 255 337 150 102 
 
 ## The Code

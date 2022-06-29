@@ -11,10 +11,8 @@ Wrap your decrypted message in the picoCTF flag format (i.e. picoCTF{decrypted_m
 From the file, a list of integirs are found:
 91 322 57 124 40 406 272 147 239 285 353 272 77 110 296 262 299 323 255 337 150 102 
 
-The description tells us to mod each number by 37, making the numbers:
-17 26 20 13 3 36 13 36 17 26 20 13 3 36 0 3 3 27 33 4 2 28
-
 ## The Code
+```
 #cipher values
 cipher = [91, 322, 57, 124, 40, 406, 272, 147, 239, 285, 353, 272, 77, 110, 296, 262, 299, 323, 255, 337, 150, 102 ]
 
@@ -26,7 +24,7 @@ decipherTable = ["A", "B", "C", "D", "E", "F", "G", "H", "I","J", "K", "L", "M",
 #print
 for character in range (len(cipher)):
     print(decipherTable[cipher[character]%37],sep=' ', end='', flush=True)
-    
+```
 
 ## Solution
 R0UND_N_R0UND_ADD17EC2 -> picoCTF{R0UND_N_R0UND_ADD17EC2}

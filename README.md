@@ -9,19 +9,19 @@ picoCTF 2022 Write-Ups by Team Carpe (Final placement globally: 25th; Final scor
 
 |Question|Points|
 |--------|------|
-|[basic-mod1](./Cryptography/)|100|
-|[basic-mod2](./Cryptography/)|100|
-|[morse-code](./Cryptography/)|100|
-|[rail-fence](./Cryptography/)|100|
-|[substitution0](./Cryptography/)|100|
-|[substitution1](./Cryptography/)|100|
-|[substitution2](./Cryptography/)|100|
-|[transposition-trial](./Cryptography/)|100|
-|[Vigenere](./Cryptography/)|100|
-|[Very Smooth](./Cryptography/)|300|
-|[Sequences](./Cryptography/)|400|
-|[Sum-O-Primes](./Cryptography/)|400|
-|[NSA Backdoor](./Cryptography/)|500|
+|[basic-mod1](./Cryptography/basic-mod1)|100|
+|[basic-mod2](./Cryptography/basic-mod2)|100|
+|[morse-code](./Cryptography/morse-code)|100|
+|[rail-fence](./Cryptography/rail-fence)|100|
+|[substitution0](./Cryptography/substitution0)|100|
+|[substitution1](./Cryptography/substitution1)|100|
+|[substitution2](./Cryptography/substitution2)|100|
+|[transposition-trial](./Cryptography/transposition-trial)|100|
+|[Vigenere](./Cryptography/Vigenere)|100|
+|[Very Smooth](./Cryptography/Very%20Smooth)|300|
+|[Sequences](./Cryptography/Sequences)|400|
+|[Sum-O-Primes](./Cryptography/Sum-O-Primes)|400|
+|[NSA Backdoor](./Cryptography/NSA%20Backdoor)|500|
 
 </details>
 
@@ -31,16 +31,16 @@ picoCTF 2022 Write-Ups by Team Carpe (Final placement globally: 25th; Final scor
 
 |Question|Points|
 |--------|------|
-|[Includes](./Web%20Exploitation/)|100|
-|[Inspect HTML](./Web%20Exploitation/)|100|
-|[Local Authority](./Web%20Exploitation/)|100|
-|[Search source](./Web%20Exploitation/)|100|
+|[Includes](./Web%20Exploitation/Includes)|100|
+|[Inspect HTML](./Web%20Exploitation/Inspect%HTML)|100|
+|[Local Authority](./Web%20Exploitation/Local%Authority)|100|
+|[Search source](./Web%20Exploitation/Search%20source)|100|
 |[Forbidden Paths](./Web%20Exploitation/Forbidden%20Paths)|200|
-|[Power Cookie](./Web%20Exploitation/)|200|
+|[Power Cookie](./Web%20Exploitation/Power%Cookie)|200|
 |[Roboto Sans](./Web%20Exploitation/Roboto%20Sans)|200|
-|[Secrets](./Web%20Exploitation/)|200|
+|[Secrets](./Web%20Exploitation/Secrets)|200|
 |[SQL Direct](./Web%20Exploitation/SQL%20Direct)|200|
-|[SQLiLite](./Web%20Exploitation/)|300|
+|[SQLiLite](./Web%20Exploitation/SQLiLite)|300|
 |[Noted](./Web%20Exploitation/Noted)|500|
 
 

@@ -6,7 +6,7 @@ A message has come in but it seems to be all scrambled. Luckily it seems to have
 Download the message here.
 
 ## Approach
-From the file, a bunch of unreadable text was found :
+From the file, a bunch of unreadable text was found:
 ```
 QWITJSYHXCNDFERMUKGOPVALBZ 
 
@@ -22,7 +22,7 @@ kjgmjioxey xo.
 Ohj sdqy xg: mxirIOS{5PW5717P710E_3V0DP710E_03055505}
 ```
 
-Using the monoalphabetic cipher decoder: https://www.dcode.fr/monoalphabetic-substitution, I set the key as the 1st line:QWITJSYHXCNDFERMUKGOPVALBZ. From there, I used the last line as the flag text, which deciphered into THE FLAG IS: PICOCTF{5UB5717U710N_3V0LU710N_03055505}. 
+Using a [monoalphabetic cipher decoder](https://www.dcode.fr/monoalphabetic-substitution), I set the key as the 1st line: `QWITJSYHXCNDFERMUKGOPVALBZ`. From there, I used the last line as the flag text, which deciphered into `THE FLAG IS: PICOCTF{5UB5717U710N_3V0LU710N_03055505}`. 
 
 
 ## Solution

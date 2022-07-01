@@ -11,6 +11,6 @@ After reading through what a rail fence cipher is, it became clear what I had to
 and set the rail count to 4, and check the box which kept punctuation and spaces. This gave the the decoded message : The·flag·is:·WH3R3_D035_7H3_F3NC3_8361N_4ND_3ND_83F6D8D7
 
 ## Solution
-1NV3R53LY_H4RD_DADAACAA -> picoCTF{1NV3R53LY_H4RD_DADAACAA}
+picoCTF{WH3R3_D035_7H3_F3NC3_8361N_4ND_3ND_83F6D8D7}
 
 

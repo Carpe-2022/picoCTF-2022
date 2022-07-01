@@ -26,7 +26,7 @@ Using a [monoalphabetic cipher decoder](https://www.dcode.fr/monoalphabetic-subs
 
 
 ## Solution
-PICOCTF{5UB5717U710N_3V0LU710N_03055505}.
+picoCTF{5UB5717U710N_3V0LU710N_03055505}.
 
 The rest of the text deciphers to:
 ```

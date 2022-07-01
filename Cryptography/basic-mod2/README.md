@@ -8,7 +8,7 @@ Take each number mod 41 and find the modular inverse for the result. Then map to
 Wrap your decrypted message in the picoCTF flag format (i.e. picoCTF{decrypted_message})
 
 ## Approach
-From the file, a list of intigers are found:
+From the file, a list of integers are found:
 `104 85 69 354 344 50 149 65 187 420 77 127 385 318 133 72 206 236 206 83 342 206 370`
 
 In order to get the cipher message, we need to mod each value by 41 and find the modular inverse.

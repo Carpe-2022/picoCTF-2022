@@ -19,7 +19,7 @@ Hra yzkg marqvso, yzs hvij kg: mkwrWYH{HA3FB3LWU_4774WC5_4A3_W001_7II384QW}
 ```
 
 Since the challenge hints at using the same cipher as `Subsitution0`, I approached the problem in a similar way.
-Since no subsitution alphabet is presentm I assumed a common string of `picoCTF` and passed the text into a monoalphabetic subsitution cipher which decoded the message through multiple steps.
+Since no subsitution alphabet is present, I assumed a common string of `picoCTF` and passed the text into a monoalphabetic subsitution cipher which decoded the message through multiple steps.
 
 ## Solution
 PICOCTF{FA3HB3MCW_4774CD5_4A3_C001_7KK384SC} was the initial result of deciphering.

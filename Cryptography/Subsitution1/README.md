@@ -8,7 +8,14 @@ Download the message here.
 ## Approach
 From the file, a bunch of unreadable text was found:
 ```
-WYHg (gzray hra wimybas yzs hvij) ias i yums rh wrombysa gswbakyu wromsykykrl. Wrlysgyilyg ias masgslysn dkyz i gsy rh wzivvsljsg dzkwz ysgy yzska wasiykxkyu, yswzlkwiv (iln jrrjvklj) gckvvg, iln marqvso-grvxklj iqkvkyu. Wzivvsljsg bgbivvu wrxsa i lboqsa rh wiysjraksg, iln dzsl grvxsn, siwz uksvng i gyaklj (wivvsn i hvij) dzkwz kg gbqokyysn yr il rlvkls gwraklj gsaxkws. WYHg ias i jasiy diu yr vsial i dkns iaaiu rh wrombysa gswbakyu gckvvg kl i gihs, vsjiv slxkarlosly, iln ias zrgysn iln mviusn qu oilu gswbakyu jarbmg iarbln yzs dravn hra hbl iln maiwykws. Hra yzkg marqvso, yzs hvij kg: mkwrWYH{HA3FB3LWU_4774WC5_4A3_W001_7II384QW}
+WYHg (gzray hra wimybas yzs hvij) ias i yums rh wrombysa gswbakyu wromsykykrl. 
+Wrlysgyilyg ias masgslysn dkyz i gsy rh wzivvsljsg dzkwz ysgy yzska wasiykxkyu, 
+yswzlkwiv (iln jrrjvklj) gckvvg, iln marqvso-grvxklj iqkvkyu. Wzivvsljsg bgbivvu 
+wrxsa i lboqsa rh wiysjraksg, iln dzsl grvxsn, siwz uksvng i gyaklj (wivvsn i hvij) 
+dzkwz kg gbqokyysn yr il rlvkls gwraklj gsaxkws. WYHg ias i jasiy diu yr vsial i 
+dkns iaaiu rh wrombysa gswbakyu gckvvg kl i gihs, vsjiv slxkarlosly, iln ias 
+zrgysn iln mviusn qu oilu gswbakyu jarbmg iarbln yzs dravn hra hbl iln maiwykws.
+Hra yzkg marqvso, yzs hvij kg: mkwrWYH{HA3FB3LWU_4774WC5_4A3_W001_7II384QW}
 ```
 
 Since the challenge hints at using the same cipher as `Subsitution0`, I approached the problem in a similar way.

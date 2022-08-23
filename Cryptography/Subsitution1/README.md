@@ -51,7 +51,7 @@ FOR THIS PROBLEM, THE FLAG IS: PICOCTF{FR3JU3NCY_4774CK5_4R3_C001_7AA384BC}
 ```
 
 
-I changed the `J` in the flag to `Q` and it passed the test. The flag is: PICOCTF{FR3QU3NCY_4774CK5_4R3_C001_7AA384BC}
+I changed the `J` in the flag to `Q` and it passed the test. The flag is: picoCTF{FR3QU3NCY_4774CK5_4R3_C001_7AA384BC}
 
 
 

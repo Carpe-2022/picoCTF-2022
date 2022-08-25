@@ -16,10 +16,8 @@ From the file, a list of integers are found:
 #cipher values
 cipher = [91, 322, 57, 124, 40, 406, 272, 147, 239, 285, 353, 272, 77, 110, 296, 262, 299, 323, 255, 337, 150, 102 ]
 
-
 #decipher table
 decipherTable = ["A", "B", "C", "D", "E", "F", "G", "H", "I","J", "K", "L", "M", "N", "O", "P", "Q", "R","S", "T", "U", "V", "W", "X", "Y", "Z", "0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "_"]
-
 
 #print
 for character in range (len(cipher)):

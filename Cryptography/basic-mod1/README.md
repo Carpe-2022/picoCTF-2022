@@ -23,7 +23,6 @@ decipherTable = ["A", "B", "C", "D", "E", "F", "G", "H", "I","J", "K", "L", "M",
 for character in range (len(cipher)):
     print(decipherTable[cipher[character]%37],sep=' ', end='', flush=True)
 ```
-
 ## Solution
 R0UND_N_R0UND_ADD17EC2 -> picoCTF{R0UND_N_R0UND_ADD17EC2}
 
